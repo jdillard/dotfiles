@@ -1,0 +1,13 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+}
